@@ -1,6 +1,6 @@
 {
   "name": "couchdb-collate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "pouchdb-collate but with a dirty fix for a bug in how Chrome parses URLs",
   "main": "index.js",
   "scripts": {

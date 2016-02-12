@@ -5,8 +5,8 @@ describe('couchdb-collate', function() {
   it('should round trip', function() {
 
     var input = ['a', 1];
-    var a = couchdbCollate.collate(input);
-    var b = couchdbCollate.uncollate(a);
+    var a = couchdbCollate.toIndexableString(input);
+    var b = couchdbCollate.parseIndexableString(a);
     assert.deepEqual(input, b);
   });
 });
