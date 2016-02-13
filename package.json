@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sballesteros/couchdb-collate.git"
+    "url": "git+https://github.com/scienceai/couchdb-collate.git"
   },
   "keywords": [
     "couchdb",
@@ -17,9 +17,9 @@
   "author": "Sebastien Ballesteros",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/sballesteros/couchdb-collate/issues"
+    "url": "https://github.com/scienceai/couchdb-collate/issues"
   },
-  "homepage": "https://github.com/sballesteros/couchdb-collate#readme",
+  "homepage": "https://github.com/scienceai/couchdb-collate#readme",
   "dependencies": {
     "pouchdb-collate": "^1.2.0"
   },
